@@ -93,8 +93,6 @@ CMAIN:
         jmp .copycount
     
     .finish:
-        mov EAX, [EDI]
-        stosb
         PRINT_STRING output
         ret
     
