@@ -101,16 +101,3 @@ CMAIN:
     .printerror:
         PRINT_STRING error
         ret
-    
-    xor EAX, EAX
-    ret
-    
-    
-    
-        
-      
-    
-    
-    
-    
-    
