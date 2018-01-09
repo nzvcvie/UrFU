@@ -1,3 +1,0 @@
-﻿  main.cpp
-c:\users\nizovcevilya\source\repos\lab6\lab6\main.cpp(64): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
-c:\users\nizovcevilya\source\repos\lab6\lab6\main.cpp(75): error C2094: метка "line_search" не была определена
